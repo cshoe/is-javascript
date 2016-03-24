@@ -1,0 +1,15 @@
+{
+    name: "is-javascript",
+    version: "6.6.6",
+    description: "Check to see if you're using Javascript",
+    main: "index.js",
+    scripts: {
+        test: "echo "Error: no test specified" && exit 1"
+    },
+    repository: {
+        type: "git",
+        url: "git+https://github.com/cshoe/is-javascript"
+    },
+    author: "Chris Schomaker <cshoe@protonmail.com>",
+    license: "WTFPL"
+}
